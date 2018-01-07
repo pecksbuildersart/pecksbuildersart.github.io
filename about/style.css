@@ -53,7 +53,7 @@ a.menu:active {
 	font-size:22px;
 }
 .reversedrop {
-	background-image:url(/web/20161030104304im_/http://pecksbuildersart.com/images/reversedrop.png);
+	background-image:url(/web/20161030104304im_/http://www.pecksbuildersart.com/images/reversedrop.png);
 	background-repeat:no-repeat;
 	background-position:top;
 	}
@@ -158,13 +158,13 @@ a.foot:active {
 #prevLink, #nextLink{
 	width: 49%;
 	height: 100%;
-	background: transparent url(/web/20161030104304im_/http://pecksbuildersart.com/images/blank.gif) no-repeat; /* Trick IE into showing hover */
+	background: transparent url(/web/20161030104304im_/http://www.pecksbuildersart.com/images/blank.gif) no-repeat; /* Trick IE into showing hover */
 	display: block;
 	}
 #prevLink { left: 0; float: left;}
 #nextLink { right: 0; float: right;}
-#prevLink:hover, #prevLink:visited:hover { background: url(/web/20161030104304im_/http://pecksbuildersart.com/images/prevlabel.gif) left 15% no-repeat; }
-#nextLink:hover, #nextLink:visited:hover { background: url(/web/20161030104304im_/http://pecksbuildersart.com/images/nextlabel.gif) right 15% no-repeat; }
+#prevLink:hover, #prevLink:visited:hover { background: url(/web/20161030104304im_/http://www.pecksbuildersart.com/images/prevlabel.gif) left 15% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(/web/20161030104304im_/http://www.pecksbuildersart.com/images/nextlabel.gif) right 15% no-repeat; }
 
 
 #imageDataContainer{
@@ -218,7 +218,7 @@ clear: both;
 visibility: hidden;
 }
 .right-image-menu {
-	background-image:url(/web/20161030104304im_/http://pecksbuildersart.com/images/right-side-menu.png);
+	background-image:url(/web/20161030104304im_/http://www.pecksbuildersart.com/images/right-side-menu.png);
 	background-repeat:no-repeat;
 	font-family:"Times New Roman", Times, serif;
 	font-weight:bold;
